@@ -1,6 +1,6 @@
 {
   "name": "hooks-settheme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "class field and code spliting",
   "main": "index.js",
   "scripts": {
